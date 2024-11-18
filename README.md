@@ -1,1 +1,1 @@
-# Drinking-Water-Quality-Detection
+# Drinking Water Quality Detection
