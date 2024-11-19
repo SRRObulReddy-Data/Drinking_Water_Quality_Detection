@@ -13,6 +13,8 @@ It mainly contains 3 modules:
 ### Process Flow:
 ### Data Flow 
 Data flow diagrams generally depicts the flow of information in a system graphically. The flow starts from gathering the dataset, pre-processing the data, visualizing the data and ends at estimating the accuracies of the model (using Machine learning algorithms in this case).
-![Architecture Diagram](Data_Flow_Diagram.png = 250x250)
+<p align="left">
+  <img src="Data_Flow_Diagram.png" width="300" height="250">
+</p>
 
 Let's goooo!!
