@@ -14,17 +14,24 @@ A table named rfacts is created and is used to store attributes of river. The ta
 consists of 14, except the first column all the remaining columns are of char data type of length 
 8. First column is used to determine the sample number hence it is assigned with a constraint 
 NOT NULL which means the field should not be left empty while entering the data.
-
-Rfacts Table 
-Rfacts Data Entry 
+<p align="left">
+  <img src="rfacts.png" width="300" height="250">
+</p>
+<p align="left">
+  <img src="rfacts_data_entry.png" width="300" height="250">
+</p>
 In the database a new row has been added to the rfacts table as the user has clicked on the store 
 button at the bottom of the above window.
-Updated Rfacts Table 
+<p align="left">
+  <img src="Updated_Rfacts.png" width="300" height="250">
+</p>
 ### Qfacts Table 
 When the user clicks on second button in the user interface the below window is displayed 
 which consists of 6 attributes excluding the sample number and data related to quality factors 
 is to be entered in the window by the user. 
-Qfactors 
+<p align="left">
+  <img src="Qfacts.png" width="300" height="250">
+</p>
 CREATE TABLE qfacts
 (
 sid varchar(6) NOT NULL,
@@ -37,15 +44,21 @@ consists of 7, except the first column all the remaining columns are of char dat
 NOT NULL which means the field should not be left empty while entering the data. The qfacts 
 table contains only 2 rows of data.  
 
-Qfacts_Table 
+<p align="left">
+  <img src="Qfacts_Table.png" width="300" height="250">
+</p> 
 
 After entering the data user needs to click on the button at the bottom of the window with the 
 name store in order to store the data in the database. 
 
-Qfacts_Data_Entry
+<p align="left">
+  <img src="Qfacts_data_entry.png" width="300" height="250">
+</p>
 
 In the database a new row has been added to the qfacts table and now it consists of 3 rows. 
 
-Updated_Qfacts
+<p align="left">
+  <img src="Updated_Qfacts.png" width="300" height="250">
+</p>
 
 
